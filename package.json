@@ -4,7 +4,8 @@
   "description": "Professional node api",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "jest"
   },
   "keywords": [],
   "author": "Diego Rodrigues",
