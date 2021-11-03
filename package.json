@@ -15,7 +15,7 @@
   "author": "Diego Rodrigues",
   "license": "ISC",
   "dependencies": {
-    "validator": "^13.1.1"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "@types/jest": "^26.0.7",
